@@ -1,0 +1,10 @@
+.InventoryContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#home {
+    margin-top: 2rem;
+}
