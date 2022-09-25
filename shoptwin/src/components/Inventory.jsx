@@ -18,7 +18,7 @@ function Inventory(props) {
       <InventoryItem name = "White and Wood Couch" />
       <InventoryItem name = "Ancient roman chair" />
       <InventoryItem name = "Magic lamp" />
-      <a href="/" id='home'><FontAwesomeIcon icon={faHome} size="3x"/></a>
+      <a href="/home" id='home'><FontAwesomeIcon icon={faHome} size="3x"/></a>
     </div>
 
   )

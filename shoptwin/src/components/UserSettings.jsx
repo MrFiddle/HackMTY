@@ -15,7 +15,6 @@ function UserSettings() {
         <a href="###"><FontAwesomeIcon icon={faCreditCard} size="2x"/></a>
         <a href="/inv"><FontAwesomeIcon icon={faBoxesPacking} size="2x"/></a>
         <a href="###"><FontAwesomeIcon icon={faFileInvoiceDollar} size="2x"/></a>
-        <a href="/camera"><img src={require('./images/camera.png')} width="30%"/></a>
       </div>
     </div>
   )
