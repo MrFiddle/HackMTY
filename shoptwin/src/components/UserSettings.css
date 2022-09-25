@@ -1,0 +1,34 @@
+.userSettingsContainer {
+    display: flex;
+    flex-direction: column;
+    /* margin-right: 3rem; */
+}
+
+.rectangleContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 40vw;
+    height: 300px;
+    background-color: #CDE7EC;
+    border-radius: 2rem;
+}
+
+.rectangleContainer img {
+    width: 200px;
+    height: auto;
+}
+
+.iconsRow {
+    display: flex;
+    justify-content: space-evenly;
+    
+    margin-top: 1.5rem;
+}
+
+.iconsRow a {
+
+    text-decoration: none;
+
+}
