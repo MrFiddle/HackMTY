@@ -1,35 +1,10 @@
-
-.container image {    
-    position: absolute;
-    left: 168px;
-    top: 83px;
-}
-
-
-.name{
-    position: absolute;
-    
-    margin-left: 60px;
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 116px;
+.InventoryContainer {
     display: flex;
+    flex-direction: column;
+    justify-content: center;
     align-items: center;
-    text-align: center;
-
-    color: #006875;
 }
 
-.rectangle{
-    display: flex;
-    position: absolute;
-    width: 772.61px;
-    height: 395px;
-    left: 179px;
-    top: 418px;
-
-    background: #CDE7EC;
-    border-radius: 55px;
+#home {
+    margin-top: 2rem;
 }

@@ -1,4 +1,4 @@
-.container {
+.containerInvItem {
     margin-top: 1.2rem;
     display: flex;
     flex-direction: row;
@@ -12,23 +12,7 @@
     border-radius: 2rem;
 }
 
-.container h1 {
-    font-weight: 300;
-}
-
-.container img {
-    width: 40px;
-    height: auto;
-}
-
 .productName {
     font-size: 0.7rem;
     margin-left: 2rem;
-}
-
-.buttons {
-    width: 50%;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
 }
