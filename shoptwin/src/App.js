@@ -4,6 +4,7 @@ import ItemComponent from './components/ItemComponent';
 import PriceContainer from './components/PriceContainer';
 import Inventory from './components/Inventory';
 import Home from './components/Home';
+import Camera from './components/Camera';
 import {BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 
 
@@ -25,8 +26,8 @@ function App() {
 
         
         {/* Camera */}
-        {/*<Route path="/camera" element = {<Camera/> } />
-*/}
+        <Route path="/camera" element = {<Camera/> } />
+
         {/* Error page for all remaining routes */}
    
       {/*     <Route path='*' element={<ErrorPage/>} /> */}
