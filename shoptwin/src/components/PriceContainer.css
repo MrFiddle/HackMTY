@@ -1,0 +1,17 @@
+.containerPrice {
+    display: flex;
+    flex-direction: row;
+
+    align-items: center;
+    justify-content: space-between;
+
+    width: 40vw;
+    height: 60px;
+    background-color: #9BF0FF;
+    border-radius: 2rem;
+}
+
+.containerPrice h1 {
+    font-weight: 300;
+    padding-left: 2rem;
+}
