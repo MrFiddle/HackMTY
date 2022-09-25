@@ -1,10 +1,10 @@
 import React from 'react'
 import './PriceContainer.css'
 
-function PriceContainer() {
+function PriceContainer(props) {
   return (
     <div className='containerPrice'>
-      <h1>$100.00mxn</h1>
+      <h1>$ {props.name}mxn</h1>
     </div>
   )
 }
