@@ -13,7 +13,7 @@ function UserSettings() {
       </div>
       <div className='iconsRow'>
         <a href="###"><FontAwesomeIcon icon={faCreditCard} size="2x"/></a>
-        <a href="###"><FontAwesomeIcon icon={faBoxesPacking} size="2x"/></a>
+        <a href="/inventory"><FontAwesomeIcon icon={faBoxesPacking} size="2x"/></a>
         <a href="###"><FontAwesomeIcon icon={faFileInvoiceDollar} size="2x"/></a>
       </div>
     </div>
