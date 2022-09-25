@@ -22,7 +22,7 @@ function App() {
 
 
         {/* Inventory */}
-        <Route path="/inventory" element = {<Inventory/> } />
+        <Route path="/inv" element = {<Inventory/> } />
 
         
         {/* Camera */}
