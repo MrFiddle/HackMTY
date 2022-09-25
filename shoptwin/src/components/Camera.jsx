@@ -72,7 +72,7 @@ function Camera() {
       <div>
         <a href="./">
             
-        <a href="/"><img src={require('./icons/house.png')} width="40px"/></a>
+        <a href="/home"><img src={require('./icons/house.png')} width="40px"/></a>
         </a>
         <div style={{ textAlign: 'center', padding: '10px' }}>
           {
